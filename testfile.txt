@@ -2,4 +2,11 @@ welcome
 Mundru Modified this file
 MN added 3rd line
 Adi modified at at 12:52
+Adi modified at 12:57 PM
 MN Added 5th line
+
+<<<<<<< HEAD
+MN Added 5th line
+=======
+Adi modified at 12:57 PM
+>>>>>>> ec7918bb490da6b2f600a7125f5ec6641dd0fec2
